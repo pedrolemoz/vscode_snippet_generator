@@ -1,0 +1,20 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "vscode_snippet_generator",
+      "request": "launch",
+      "type": "dart",
+      "args": [
+        "--path",
+        "example\\flutter_modular_snippet.dart",
+        "--name",
+        "Modular 6 Module",
+        "--description",
+        "Snippet to create Modules with Modular 6",
+        "--prefix",
+        "module"
+      ]
+    }
+  ]
+}
